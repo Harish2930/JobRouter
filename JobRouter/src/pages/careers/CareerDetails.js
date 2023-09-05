@@ -21,7 +21,7 @@ export default CareerDetails
 
 export const careerDetailsLoader = async ({params}) => {
     const {id } = params
-    const res = await fetch('http://localhost:4000/careers/' + id)
+    const res = await fetch('https://job-router-eta.vercel.app/' + id)
 
     if (!res.ok){
         throw Error('Could not find that career')
