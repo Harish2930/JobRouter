@@ -1,0 +1,68 @@
+{
+  "careers": [
+    {
+      "id": 1,
+      "title": "Software Development Intern",
+      "company": "Thinkerbell Labs",
+      "salary": 20000,
+      "location": "Bangalore",
+      "url": "https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3705331940"
+ 
+    },
+    {
+      "id": 2,
+      "title": "Frontend Developer",
+      "company": "Flipped.ai",
+      "salary": 30000,
+      "location": "Mumbai",
+      "url": "https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3705334920"
+  
+      
+    },
+    {
+      "id": 3,
+      "title": "Java + React",
+      "company": "Adecco",
+      "salary": 45000,
+      "location": "Bangalore",
+      "url":"https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3711942171"
+    
+     
+    },
+    {
+      "id": 4,
+      "title": "Python Developer",
+      "company": "Animaker Inc.",
+      "salary": 40000,
+      "location": "Chennai",
+      "url":"https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3705338211"
+
+    },
+    {
+      "id": 5,
+      "title": "Software Engineering, New Grad",
+      "company":"Stripe",
+      "salary": 35000,
+      "location": "Bengaluru",
+      
+      "url":"https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3707173835"
+    },
+    {
+      "id": 6,
+      "title": "Android Developer",
+      "company":"ParallelDots",
+      "salary": 35000,
+      "location": "Bengaluru",
+      
+      "url":"https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3711046314&start=24"
+    },
+    {
+      "id": 7,
+      "title": "Data Analyst",
+      "company":"Tree Top Staffing LLC",
+      "salary": 30000,
+      "location": "Remote",
+      "url":"https://www.linkedin.com/jobs/search/?currentJobId=3710926410&keywords=data%20analyst&refresh=true"
+    }
+  ]
+}
